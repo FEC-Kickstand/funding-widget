@@ -25,4 +25,8 @@ public/bundle.js
 
 
 db/connection.js
-db/seedData.csv
+*.csv
+
+package-lock.json
+
+newrelic.js
